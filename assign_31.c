@@ -3,6 +3,7 @@
 #include<math.h>
 #include<time.h>
 #include<stdlib.h>
+#include<algo.h>
 
 int inputs[6675][195];
 int testInput[3335][195];
