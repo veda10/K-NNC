@@ -1,2 +1,2 @@
 # K-NNC
-k nearest neighbours classifier in C
+K nearest neighbours classifier in C
